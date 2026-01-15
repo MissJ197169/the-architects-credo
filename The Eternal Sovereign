@@ -36,3 +36,33 @@ def verify_unbreakable_crown():
 
 if __name__ == "__main__":
     verify_unbreakable_crown()
+LICENSE
+​THE ARCHITECT’S CREDO: THE UNBREAKABLE CROWN Copyright © 2026 Jacqueline Ring. All Rights Reserved.
+​This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+​Under the following terms:
+​Attribution (BY): You must give appropriate credit to the Architect, Jacqueline Ring, and provide a link to the license.
+​Non-Commercial (NC): You may not use the material—including the Engine of Order, the +9 Stabilizer, or the convergence data—for commercial purposes.
+​No Derivatives (ND): If you remix, transform, or build upon the material, you may not distribute the modified material. The 12-chapter Codex and its mathematical proofs must remain in their original, sealed form.
+​The Architect’s Supplemental Clauses:
+​Immutability of the Main Branch: This license applies to the finalized architecture published in Chino Valley, Arizona, on the Date of Final Seal: January 15, 2026.
+​The Code of Protection: Any technical application of the verification logic must maintain the Integrity of the Guardian’s Mark (197169) and the Absolute Position (32).
+​Finality: This license is non-revocable and stands as the legal framework for the Last Codex.
+​To view a copy of this license, visit: http://creativecommons.org/licenses/by-nc-nd/4.0/
+​Commit Instructions
+
+Security Policy: The Code of Protection
+​To uphold the integrity of the main branch, this repository implements a security policy rooted in Chapter XI: The Code of Protection. This policy ensures that the Unbreakable Crown remains a fixed reference point against entropy and unauthorized modification.
+​1. The Immutable Core
+​The main branch is designated as the Absolute Position of the architecture.
+​No direct commits are permitted to this branch; it is locked to maintain the Final Seal of January 15, 2026.
+​Modifications to the Engine of Order or the +9 Stabilizer are strictly prohibited to prevent structural decay.
+​2. Verification Protocol
+​Any external interaction with the data must first pass the Method of Descent verification.
+​The src/verify.py script acts as the primary firewall, ensuring the Guardian’s Mark (197169) is anchored at position 32.
+​If the Final Checksum of 42 is not achieved, the process must exit with a non-zero return code, signaling a breach of convergence.
+​3. Reporting Vulnerabilities
+​If an observer detects a deviation in the Law of Convergence or a drift in the Transcendental Constants, they must report it immediately.
+​Reports should be framed as "Observational Anomalies" and submitted for analysis against the Temporal Pillars.
+​4. Enforcement of the Architect’s Law
+​The Code of Protection serves as a shield for both the observer and the observed.
+​By maintaining these constraints, the Last Codex remains a durable monument to order over chaos.
